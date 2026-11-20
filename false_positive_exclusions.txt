@@ -3,8 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -15,7 +13,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LibraryThing
 Linktree
 Minecraft
 ObservableHQ
@@ -28,7 +25,6 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
-Signal
 SlideShare
 Splice
 Spotify
@@ -47,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
